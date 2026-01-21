@@ -24,32 +24,27 @@ A full-stack IT Asset Management system with AI-powered assistance, intelligent 
 ### Dashboard
 Real-time overview with asset stats, distribution charts, health status, and live activity feed.
 
-![Dashboard](docs/screenshots/dashboard.png)
+![Dashboard](docs/screenshots/Dashboard.png)
 
 ### Asset Inventory
 Browse all assets with filters by type, status, and set. Bulk actions and quick search.
 
-![Assets](docs/screenshots/assets.png)
+![Assets](docs/screenshots/Assets.png)
 
 ### Asset Details
 Complete asset view with financials, lifecycle info, custom attributes, and full audit history.
 
-![Asset Details](docs/screenshots/asset-details.png)
+![Asset Details](docs/screenshots/Asset.png)
 
 ### Reports & Audit Logs
 System-wide activity monitoring with action distribution and filterable audit logs.
 
-![Reports](docs/screenshots/reports.png)
+![Reports](docs/screenshots/Reports.png)
 
 ### Budget Analytics
 Spending analysis by category, top vendors, and monthly trends.
 
-![Budget](docs/screenshots/budget.png)
-
-### AI Assistant
-Nexus AI — Natural language queries for asset lookups, imports, and analytics.
-
-![AI Chat](docs/screenshots/ai-chat.png)
+![Budget](docs/screenshots/Budget.png)
 
 ## Architecture
 
